@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF Sandbox", "WPF Sandbox\WPF Sandbox.csproj", "{F6F42FFA-0BF0-4EF5-8D70-2647EF008503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F42FFA-0BF0-4EF5-8D70-2647EF008503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F42FFA-0BF0-4EF5-8D70-2647EF008503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F42FFA-0BF0-4EF5-8D70-2647EF008503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F42FFA-0BF0-4EF5-8D70-2647EF008503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938AB013-3FE7-4021-BD8E-A2B6B38ADB4D}
+	EndGlobalSection
+EndGlobal
